@@ -1,7 +1,7 @@
 # DataMining1
 Data Mining: Foundations
 
-Progetto svolto in collaborazione con Alessandro Vavalà e Andrei Sauca
+**Progetto svolto in collaborazione con Alessandro Vavalà e Andrei Sauca**
 
 Tasks of the project:
 1. Data Understanding: Explore the dataset with the analytical tools studied and write a concise “data understanding” report describing data semantics, assessing data quality, the distribution of the variables and the pairwise correlations. (see Guidelines for details)
