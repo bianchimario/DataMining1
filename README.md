@@ -1,4 +1,6 @@
 # DataMining1
+**Progetto svolto in collaborazione con Alessandro Vavalà e Andrei Sauca**
+
 Data Mining: Foundations
 
 Tasks of the project:
