@@ -9,5 +9,5 @@ Tasks of the project:
 3. Classification: Explore the dataset using classification trees. Use them to predict the target variable. (see Guidelines for details)
 4. Association Rules: Explore the dataset using frequent pattern mining and association rules extraction. Then use them to predict a variable either for replacing missing values or to predict target variable. (see Guidelines for details)
 
-**Progetto svolto in collaborazione con Alessandro Vavalà e Andrei Sauca**
+
 
